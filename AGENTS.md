@@ -99,7 +99,7 @@ neighboring files rather than introducing a new style.
 - Use `##`/`###` (not `#`) for in-page section headers; reserve `#` for the
   document title when no YAML `title` is set.
 - Bullet lists in prose sections use the `•` character followed by a tab
-  (matches existing convention in `getting-started.qmd`, `Overview.qmd`) —
+  (matches existing convention in `Overview.qmd`) —
   match this style when adding to those specific pages; standard Markdown
   `-`/`*` bullets are fine elsewhere.
 - Internal links are relative and use the `.qmd` extension, e.g.

@@ -15,7 +15,6 @@ about:
       href: https://github.com/OHDSI/HealthSystems
     - text: '{{< iconify material-symbols:co-present>}} Global Symposium'
       href: https://www.ohdsi.org/ohdsi2026/
-
 ---
 
 ::: {#about}
@@ -35,6 +34,26 @@ Healthcare Systems Interest Group mission - To help each other and learn from ex
 Our group mainly supports health systems, hospitals, and others who have electronic health record (EHR) data on their OHDSI journey to produce reliable, reproducible evidence.
 
 The Health Systems group meets the first Monday of the month at 10am Eastern Time. See [Get Involved](community/get-involved.qmd) for the meeting link and other ways to connect with the community.
+
+## Getting Started
+
+Please join us on the Health Systems Interest Group meeting the first Monday of the month at 10am Eastern Time.
+
+The call will be focused on helping those new to the OHDSI community get started with the OMOP CDM. Please bring any and all questions related to OHDSI, OMOP CDM, observational health data, and research.
+
+See [Get Involved](community/get-involved.qmd) for the meeting link and other ways to connect with the community.
+
+### New to ETLing your data to the OMOP CDM?
+
+If you're just starting out, [ETL & Mapping Guidance](etl-mapping/overview.qmd) walks through what ETL to the OMOP CDM involves, EHR-specific extraction guidance, terminology/vocabulary mapping, and the data governance responsibilities that come with handling clinical data.
+
+For the full directory of OHDSI tools and reference material, see [Resources](resources.qmd).
+
+## 2026 OHDSI Global Symposium
+
+The 2026 OHDSI Global Symposium showcased recent developments, collaborations, and community achievements across the OHDSI network, with contributions from the Health Systems Interest Group on EHR data extraction, terminology mapping, and OMOP CDM implementation.
+
+Visit our [Presentations](community/presentations.qmd) page to explore session slides and materials from the 2026 Symposium.
 
 :::
 
