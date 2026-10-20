@@ -162,25 +162,25 @@
     ]
   },
   {
-    "objectID": "getting-started/getting-started.html",
-    "href": "getting-started/getting-started.html",
-    "title": "Getting Started",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "OHDSI HSIG",
     "section": "",
-    "text": "Please join us on the Health Systems Interest Group meeting the first Monday of the month at 10am ET.\nThe call will be focused on helping those new to the OHDSI community get started with the OMOP CDM. Please bring any and all questions related to OHDSI, OMOP CDM, observational health data and research.\nSee Get Involved for the meeting link and other ways to connect with the community."
+    "text": "Forums\n  \n  \n      Wiki\n  \n  \n      GitHub\n  \n  \n      Global Symposium"
   },
   {
-    "objectID": "getting-started/getting-started.html#getting-started",
-    "href": "getting-started/getting-started.html#getting-started",
-    "title": "Getting Started",
-    "section": "",
-    "text": "Please join us on the Health Systems Interest Group meeting the first Monday of the month at 10am ET.\nThe call will be focused on helping those new to the OHDSI community get started with the OMOP CDM. Please bring any and all questions related to OHDSI, OMOP CDM, observational health data and research.\nSee Get Involved for the meeting link and other ways to connect with the community."
+    "objectID": "index.html#getting-started",
+    "href": "index.html#getting-started",
+    "title": "OHDSI HSIG",
+    "section": "Getting Started",
+    "text": "Getting Started\nPlease join us on the Health Systems Interest Group meeting the first Monday of the month at 10am Eastern Time.\nThe call will be focused on helping those new to the OHDSI community get started with the OMOP CDM. Please bring any and all questions related to OHDSI, OMOP CDM, observational health data, and research.\nSee Get Involved for the meeting link and other ways to connect with the community.\n\nNew to ETLing your data to the OMOP CDM?\nIf you’re just starting out, ETL & Mapping Guidance walks through what ETL to the OMOP CDM involves, EHR-specific extraction guidance, terminology/vocabulary mapping, and the data governance responsibilities that come with handling clinical data.\nFor the full directory of OHDSI tools and reference material, see Resources."
   },
   {
-    "objectID": "getting-started/getting-started.html#new-to-etling-your-data-to-the-omop-cdm",
-    "href": "getting-started/getting-started.html#new-to-etling-your-data-to-the-omop-cdm",
-    "title": "Getting Started",
-    "section": "New to ETLing your data to the OMOP CDM?",
-    "text": "New to ETLing your data to the OMOP CDM?\nIf you’re just starting out, ETL & Mapping Guidance walks through what ETL to the OMOP CDM involves, EHR-specific extraction guidance, terminology/vocabulary mapping, and the data governance responsibilities that come with handling clinical data.\nFor the full directory of OHDSI tools and reference material, see Resources."
+    "objectID": "index.html#ohdsi-global-symposium",
+    "href": "index.html#ohdsi-global-symposium",
+    "title": "OHDSI HSIG",
+    "section": "2026 OHDSI Global Symposium",
+    "text": "2026 OHDSI Global Symposium\nThe 2026 OHDSI Global Symposium showcased recent developments, collaborations, and community achievements across the OHDSI network, with contributions from the Health Systems Interest Group on EHR data extraction, terminology mapping, and OMOP CDM implementation.\nVisit our Presentations page to explore session slides and materials from the 2026 Symposium."
   },
   {
     "objectID": "contribute/submit_mappings.html",
@@ -201,13 +201,6 @@
     "crumbs": [
       "Instructions for mapping contributions"
     ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "OHDSI HSIG",
-    "section": "",
-    "text": "Forums\n  \n  \n      Wiki\n  \n  \n      GitHub\n  \n  \n      Global Symposium\n  \n\n\n\n\n\nWelcome to OHDSI Health Systems Interest Group\nThe Observational Health Data Sciences and Informatics (or OHDSI, pronounced “Odyssey”) program is a multi-stakeholder, interdisciplinary collaborative to bring out the value of health data through large-scale analytics. All our solutions are open-source.\nOHDSI’s mission - To improve health by empowering a community to collaboratively generate the evidence that promotes better health decisions and better care.\nHealthcare Systems Interest Group mission - To help each other and learn from experience. Our group mainly supports health systems, hospitals, and others who have electronic health record (EHR) data on their OHDSI journey to produce reliable, reproducible evidence.\nThe Health Systems group meets the first Monday of the month at 10am Eastern Time. See Get Involved for the meeting link and other ways to connect with the community."
   },
   {
     "objectID": "etl-mapping/overview.html",
@@ -314,7 +307,7 @@
     "href": "community/presentations.html",
     "title": "Presentations",
     "section": "",
-    "text": "FAQs\nPopular topics\n\n\n  \n\n\n\nDate\nTitle\nPresenter\n\n\n\n\n2023-05-08\nETL of EHR encounters into Visit Occurrence & Visit Detail tables: Part 1\nMelanie Philofsky\n\n\n2023-05-22\nETL of EHR encounters into Visit Occurrence & Visit Detail tables: Part 2\nMelanie Philofsky\n\n\n2023-06-19\nCustom mapping of local source values to OHDSI standard concepts\nMelanie Philofsky\n\n\n2023-07-23\nAdding new vocabularies to OMOP CDM\nAnna Ostropolets\n\n\n2023-09-11\nMoving OMOP to the Cloud with DBT and Snowflake\nRoger Carlson\n\n\n2024-02-26\nMapping Knowledge Base: semantic mapping\nMelanie Philofsky\n\n\n2022-09-22\nSNOMED CT Model for Post-Coordination as a Way to Sustainably Represent Source Concepts in OMOP CDM\nEduard Korchmar\n\n\n\n\n\nNo matching items",
+    "text": "2026 OHDSI Symposium\nPresentations and materials from the 2026 OHDSI Global Symposium. Presentation links and slides will be posted here.\n\n\n  \n\n\n\nDate\nTitle\nPresenter\n\n\n\n\n\n\n\n\nFAQs\nPopular topics\n\n\n  \n\n\n\nDate\nTitle\nPresenter\n\n\n\n\n2023-05-08\nETL of EHR encounters into Visit Occurrence & Visit Detail tables: Part 1\nMelanie Philofsky\n\n\n2023-05-22\nETL of EHR encounters into Visit Occurrence & Visit Detail tables: Part 2\nMelanie Philofsky\n\n\n2023-06-19\nCustom mapping of local source values to OHDSI standard concepts\nMelanie Philofsky\n\n\n2023-07-23\nAdding new vocabularies to OMOP CDM\nAnna Ostropolets\n\n\n2023-09-11\nMoving OMOP to the Cloud with DBT and Snowflake\nRoger Carlson\n\n\n2024-02-26\nMapping Knowledge Base: semantic mapping\nMelanie Philofsky\n\n\n2022-09-22\nSNOMED CT Model for Post-Coordination as a Way to Sustainably Represent Source Concepts in OMOP CDM\nEduard Korchmar\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Presentations"
     ]

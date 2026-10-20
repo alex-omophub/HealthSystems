@@ -2,46 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://OHDSI.github.io/HealthSystems/resources.html</loc>
-    <lastmod>2026-10-05T18:26:30.500Z</lastmod>
+    <lastmod>2026-10-20T11:19:43.777Z</lastmod>
   </url>
   <url>
     <loc>https://OHDSI.github.io/HealthSystems/community/get-involved.html</loc>
-    <lastmod>2026-10-05T18:26:30.499Z</lastmod>
+    <lastmod>2026-10-20T11:19:43.775Z</lastmod>
   </url>
   <url>
     <loc>https://OHDSI.github.io/HealthSystems/etl-mapping/ehr-source-systems.html</loc>
-    <lastmod>2026-10-05T18:26:30.499Z</lastmod>
+    <lastmod>2026-10-20T11:19:43.776Z</lastmod>
   </url>
   <url>
     <loc>https://OHDSI.github.io/HealthSystems/etl-mapping/terminology-mapping/converting_ndc.html</loc>
-    <lastmod>2026-10-05T18:26:30.499Z</lastmod>
-  </url>
-  <url>
-    <loc>https://OHDSI.github.io/HealthSystems/getting-started/getting-started.html</loc>
-    <lastmod>2026-10-05T18:26:30.499Z</lastmod>
-  </url>
-  <url>
-    <loc>https://OHDSI.github.io/HealthSystems/contribute/submit_mappings.html</loc>
-    <lastmod>2026-10-05T18:26:30.499Z</lastmod>
+    <lastmod>2026-10-20T11:19:43.776Z</lastmod>
   </url>
   <url>
     <loc>https://OHDSI.github.io/HealthSystems/index.html</loc>
-    <lastmod>2026-10-05T18:26:30.499Z</lastmod>
+    <lastmod>2026-10-20T11:19:43.776Z</lastmod>
+  </url>
+  <url>
+    <loc>https://OHDSI.github.io/HealthSystems/contribute/submit_mappings.html</loc>
+    <lastmod>2026-10-20T11:19:43.776Z</lastmod>
   </url>
   <url>
     <loc>https://OHDSI.github.io/HealthSystems/etl-mapping/overview.html</loc>
-    <lastmod>2026-10-05T18:26:30.499Z</lastmod>
+    <lastmod>2026-10-20T11:19:43.776Z</lastmod>
   </url>
   <url>
     <loc>https://OHDSI.github.io/HealthSystems/etl-mapping/terminology-mapping/terminology-mapping.html</loc>
-    <lastmod>2026-10-05T18:26:30.499Z</lastmod>
+    <lastmod>2026-10-20T11:19:43.776Z</lastmod>
   </url>
   <url>
     <loc>https://OHDSI.github.io/HealthSystems/etl-mapping/data-governance.html</loc>
-    <lastmod>2026-10-05T18:26:30.499Z</lastmod>
+    <lastmod>2026-10-20T11:19:43.776Z</lastmod>
   </url>
   <url>
     <loc>https://OHDSI.github.io/HealthSystems/community/presentations.html</loc>
-    <lastmod>2026-10-05T18:26:30.499Z</lastmod>
+    <lastmod>2026-10-20T11:19:43.776Z</lastmod>
   </url>
 </urlset>
